@@ -1,1 +1,0 @@
-# Intelligent-surveillance-system
